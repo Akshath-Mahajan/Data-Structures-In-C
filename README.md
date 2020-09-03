@@ -19,8 +19,8 @@ The structures being implemented for this repository are:
    * Header Linked List
    * Circular Doubly Linked List
    * Self-organizing Linked List
-2. Stack
-   * Array Representation
+2. Stack ✔
+   * Array Representation ✔
    * Linked Representation ✔
 3. Queue
    * Deque
