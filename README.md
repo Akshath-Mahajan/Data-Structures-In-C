@@ -13,7 +13,7 @@ Eventually, some algorithms that use these data structures such as DFS, BFS, Dij
 The structures being implemented for this repository are:
 
 1. Linked List
-   * Singly Linked List
+   * Singly Linked List ✔
    * Doubly Linked List
    * Circular Linked List
    * Header Linked List
